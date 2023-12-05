@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUj4CQG89pQ68m3TUzxXxlAjIrAh9mXAcxw&usqp=CAU);
+}
+.bg-block{
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.h1-span{
+    background: #CB60B3;
+    background: linear-gradient(to right, #CB60B3 0%, #C146A1 50%, #A80077 51%, #DB36A4 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h1{
+    margin-top: 30px;
+}
+p{
+    margin-top: 20px;
+}
+h2{
+    margin-top: 30px!important;
+    margin-bottom: 30px!important;
+}
+.bc{
+    justify-content: space-evenly;
+}
+.card{
+    padding: 0!important;
+}
+.col-lg-3{
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+}
+.btn-group{
+    margin-top: 30px!important;
+    margin-bottom: 30px!important;
+}
